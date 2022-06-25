@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.timelyrain80.txtgetter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.timelyrain80.txtgetter.MyBundle
 
 class MyApplicationService {
 
